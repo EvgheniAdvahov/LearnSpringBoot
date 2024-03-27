@@ -1,4 +1,4 @@
-package com.evad.example;
+package com.evad.example.school;
 
 public record SchoolDto(
         String name

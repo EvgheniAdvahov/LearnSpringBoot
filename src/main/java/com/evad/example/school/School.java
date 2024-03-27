@@ -1,5 +1,6 @@
-package com.evad.example;
+package com.evad.example.school;
 
+import com.evad.example.student.Student;
 import com.fasterxml.jackson.annotation.JsonManagedReference;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

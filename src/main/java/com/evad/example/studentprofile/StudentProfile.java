@@ -1,5 +1,6 @@
-package com.evad.example;
+package com.evad.example.studentprofile;
 
+import com.evad.example.student.Student;
 import jakarta.persistence.*;
 
 @Entity

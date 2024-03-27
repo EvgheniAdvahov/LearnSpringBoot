@@ -1,4 +1,4 @@
-package com.evad.example;
+package com.evad.example.student;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

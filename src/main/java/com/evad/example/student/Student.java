@@ -1,6 +1,8 @@
-package com.evad.example;
+package com.evad.example.student;
 
 
+import com.evad.example.school.School;
+import com.evad.example.studentprofile.StudentProfile;
 import com.fasterxml.jackson.annotation.JsonBackReference;
 import jakarta.persistence.*;
 
